@@ -153,7 +153,7 @@ Where:
 No-More-Traffic
 │
 ├── src
-│   └── traffic_scheduler.c
+│   └── No_more_traffic.c
 │
 ├── report
 │   └── project_report.pdf
@@ -225,7 +225,7 @@ Intersection 3 : 1 vehicles
 Compile the program:
 
 ```
-gcc traffic_scheduler.c -o traffic
+gcc No_more_traffic.c -o traffic
 ```
 
 Run the program:
